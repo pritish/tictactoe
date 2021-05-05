@@ -2,7 +2,7 @@ import "./styles.css";
 import { Game } from "./components";
 
 // https://www.digitalocean.com/community/tutorials/how-to-build-forms-in-react
-//github.com/harman052/react-tutorial-solutions/
+// github.com/harman052/react-tutorial-solutions/
 
 export default function App() {
   return (
